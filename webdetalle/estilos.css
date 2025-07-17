@@ -560,7 +560,7 @@ div.redes {
 @media (max-width: 640px) {
 
     #inicio {
-        background-image: url(../imagenes/fondomovil4.webp);
+        background-image: url(../imagenes/fondomovil2.webp);
         background-repeat: no-repeat;
         background-size: 100%;
         display: flex;
